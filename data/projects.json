@@ -1,0 +1,9 @@
+{
+  "list": [
+    {
+      "name":"Evently",
+      "url":"https://github.com/dboslee/evently",
+      "desc":"A lightweight python event bus."
+    }
+  ]
+}
